@@ -1,0 +1,5 @@
+to remove a service from win 1200 that will not uninstall (error 1060 Open fail)
+Go to :
+HKEY_LOCAL_MACHINE/SYSTEM/CURRENTCONTROLSET/SERVICES
+
+delete the service key in question.
